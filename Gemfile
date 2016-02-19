@@ -46,6 +46,7 @@ group :development do
   gem 'spring'
 end
 
+gem 'sprockets-rails', '~> 2.3'
 gem 'rails_12factor', group: :production
 gem "paperclip", "~> 4.3"
 gem 'bootsy', github: 'volmer/bootsy'
